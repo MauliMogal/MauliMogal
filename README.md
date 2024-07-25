@@ -23,6 +23,6 @@
 
 Let's connect and explore opportunities to create impactful solutions together!
 
-📫 **Reach me at:** [Your Email](maulimogal@gmail.com) | [LinkedIn Profile]https://www.linkedin.com/in/maulimogal/
+📫 **Reach me at:** [Email](maulimogal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maulimogal/
 
 📌 Here's a link to my [Portfolio](https://www.maulimogal.com/)
