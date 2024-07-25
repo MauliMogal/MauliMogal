@@ -1,17 +1,28 @@
 ### Hi there 👋
 
-📌 I am **Mauli Mogal**, currently learning Web Developement and building exciting real-world projects.
+📌 I am **Mauli Mogal**, an experienced **Business Analyst** with a strong background in pre-sales and web development. My journey from web development to business analysis has equipped me with a unique blend of technical and analytical skills, allowing me to excel in bridging the gap between technology and business needs.
 
-📌 I am `extremely motivated` at learning to excel in my skills. `Consistency` and `passion for my work` are the key factors towards my success.
+📌 I am `passionate about problem-solving` and `driven by a desire to deliver value` through innovative solutions. `Analytical thinking`, `effective communication`, and a `keen eye for detail` are the cornerstones of my professional success.
 
-- 💻 *Languages:*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/>
+- 📊 *Business Analysis Expertise:*
+  - Requirements Gathering and Analysis
+  - Process Improvement and Optimization
+  - Stakeholder Engagement
+  - Data Analysis and Reporting
 
- - 💻 *Front-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/>
+- 💼 *Pre-Sales Skills:*
+  - Solution Design and Prototyping
+  - RFP/RFI Response Management
+  - Client Presentations and Demos
+  - Market Research and Competitive Analysis
 
- - 💻 *Back-End Development:*  <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/>
+- 🌟 *Core Values:*
+  - Consistency in delivering high-quality results
+  - Passion for continuous learning and improvement
+  - Dedication to fostering collaborative and effective teamwork
+
+Let's connect and explore opportunities to create impactful solutions together!
+
+📫 **Reach me at:** [Your Email](maulimogal@gmail.com) | [LinkedIn Profile]https://www.linkedin.com/in/maulimogal/
 
 📌 Here's a link to my [Portfolio](https://www.maulimogal.com/)
-
-[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://hashnode.com/@MauliMogal)
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/dnyaneshwarmogal/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/MauliMogal)
