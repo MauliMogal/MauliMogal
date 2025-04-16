@@ -40,19 +40,19 @@ I'm a results-driven web developer with **3+ years of experience** building scal
 
 ### 📬 Connect with Me
 
-<a href="https://www.linkedin.com/in/dnyaneshwarmogal/">
+<a href="https://www.linkedin.com/in/dnyaneshwarmogal/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/>
 </a>
-<a href="mailto:maulimogal@gmail.com">
+<a href="mailto:maulimogal@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/email.png" height="30"/>
 </a>
-<a href="https://twitter.com/MauliMogal">
+<a href="https://twitter.com/MauliMogal" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="30"/>
 </a>
-<a href="https://leetcode.com/MauliMogal/">
+<a href="https://leetcode.com/MauliMogal/" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="30"/>
 </a>
 
 ---
 
-🔗 **Portfolio:** [maulimogal.com](https://www.maulimogal.com)
+🔗 **Portfolio:** <a href="https://www.maulimogal.com" target="_blank">maulimogal.com</a>
