@@ -1,58 +1,28 @@
-### Hey there 👋 I'm Mauli Mogal
+# Mauli Mogal — MERN Developer
 
-🚀 Full Stack Developer | MERN Stack Enthusiast | Passionate Problem Solver
+Building production-grade web apps. 3+ years with React, Node.js, TypeScript, and Postgres/Mongo.
 
-I'm a results-driven web developer with **3+ years of experience** building scalable, responsive, and modern web applications. I specialize in the **MERN stack** and enjoy turning ideas into clean, efficient code. Focused on writing maintainable code, delivering high-performance systems, and crafting seamless user experiences.
+**Now**
+- Shipping portfolio v1 and upgrading 3 apps to “production” quality
+- Focus: performance, a11y, CI/CD
 
----
+**Core skills**
+React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma, Redis, Tailwind, Vite, Vitest, Playwright, Docker, Vercel, GitHub Actions
 
-### 🛠 Tech Stack
+**Featured work**
+| Project | Stack | Highlights | Live | Code |
+|---|---|---|---|---|
+| Portfolio | React, TS, Tailwind, Vercel | SSR-ready, a11y checklist, CI | maulimogal.com | /Portfolio |
+| App #2 | Next.js, Node, Postgres, Prisma | Auth, RBAC, tests, Docker | link | repo |
+| App #3 | React, Node, Mongo, Redis | Queue + caching, metrics | link | repo |
+| OSS/Utility | TS, Node | CLI/Lib with tests | npm | repo |
 
-**Languages & Runtime:**  
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="30"/>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png" height="30"/>
+**Selected metrics**
+- P95 page load: TBD ms (target <2000ms)
+- Lighthouse: PWA 100 / Perf 95+ / A11y 100 (target)
 
-**Front-End Development:**  
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" height="30"/>
-<img src="https://img.icons8.com/ultraviolet/40/react--v1.png" height="30"/>
-<img src="https://img.icons8.com/color/48/tailwind_css.png" height="30"/>
-<img src="https://img.icons8.com/color/48/bootstrap.png" height="30"/>
+**Open to**
+MERN/Full-stack roles, 10–12 LPA. Pune/Remote.
 
-**Back-End Development:**  
-<img src="https://img.icons8.com/fluency/48/express-js.png" height="30"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="30"/>
-
-**Tools & Platforms:**  
-<img src="https://img.icons8.com/color/48/000000/git.png" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/github.png" height="30"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" height="30"/>
-<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" height="30"/>
-
----
-
-### 🧠 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MauliMogal?theme=dark&font=Baloo)](https://leetcode.com/MauliMogal/)
-
----
-
-### 📬 Connect with Me
-
-<a href="https://www.linkedin.com/in/dnyaneshwarmogal/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30"/>
-</a>
-<a href="mailto:maulimogal@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/email.png" height="30"/>
-</a>
-<a href="https://twitter.com/MauliMogal" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="30"/>
-</a>
-<a href="https://leetcode.com/MauliMogal/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="30"/>
-</a>
-
----
-
-🔗 **Portfolio:** <a href="https://www.maulimogal.com" target="_blank">maulimogal.com</a>
+**Links**
+Website: https://www.maulimogal.com • LinkedIn: https://linkedin.com/in/maulimogal • Email: maulimogal@gmail.com
