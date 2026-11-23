@@ -1,10 +1,10 @@
 ### Hi, I'm Mauli 👋
 
-Sales @ Frappe, Mumbai. Ex-developer.
+Sales @ Frappe, Mumbai.
 
 I help businesses go live on Frappe apps. When something in the product slows a customer down, I fix it and send the PR upstream.
 
-Currently working on **Frappe Live**: AI-led implementations of Frappe CRM, Helpdesk, HR and ERPNext on Frappe Cloud.
+Currently working on **Frappe Live**: AI-led onboarding of ERPNext and all Frappe apps on Frappe Cloud.
 
 ### Open source contributions to Frappe
 
