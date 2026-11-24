@@ -11,7 +11,7 @@ Currently working on **Frappe Live**: AI-led onboarding of ERPNext and all Frapp
 <!-- stats:start -->
 | Merged PRs | Open PRs | Frappe repos contributed to |
 |:-:|:-:|:-:|
-| **2** | 3 | 1 |
+| **2** | 4 | 1 |
 
 **Merged**
 
@@ -20,7 +20,8 @@ Currently working on **Frappe Live**: AI-led onboarding of ERPNext and all Frapp
 
 **In review**
 
-- [frappe/crm#3562](https://github.com/frappe/crm/pull/3562): feat: find and share your own booking page in one click
+- [frappe/crm#3575](https://github.com/frappe/crm/pull/3575): fix(views): apply saved view filters when the list loads before views
+- [frappe/crm#3562](https://github.com/frappe/crm/pull/3562): feat(booking): search booking pages
 - [frappe/crm#3560](https://github.com/frappe/crm/pull/3560): fix(calendar): event panel opens deal in new tab, copies shareable details, aligns description
 - [frappe/helpdesk#4066](https://github.com/frappe/helpdesk/pull/4066): feat(skills): add helpdesk-implementation skill
 
