@@ -11,10 +11,11 @@ Currently working on **Frappe Live**: AI-led onboarding of ERPNext and all Frapp
 <!-- stats:start -->
 | Merged PRs | Open PRs | Frappe repos contributed to |
 |:-:|:-:|:-:|
-| **4** | 2 | 1 |
+| **5** | 2 | 1 |
 
 **Merged**
 
+- [frappe/crm#3596](https://github.com/frappe/crm/pull/3596): feat: copy button for email and mobile no in deal contacts (backport #3585) (2026-11-25)
 - [frappe/crm#3585](https://github.com/frappe/crm/pull/3585): feat: copy button for email and mobile no in deal contacts (2026-11-25)
 - [frappe/crm#3575](https://github.com/frappe/crm/pull/3575): fix(views): apply saved view filters when the list loads before views (2026-11-24)
 - [frappe/crm#3511](https://github.com/frappe/crm/pull/3511): fix(booking): brand logo, favicon and a Back button on the booking page (2026-11-18)
@@ -25,7 +26,7 @@ Currently working on **Frappe Live**: AI-led onboarding of ERPNext and all Frapp
 - [frappe/crm#3562](https://github.com/frappe/crm/pull/3562): feat(booking): search booking pages
 - [frappe/crm#3560](https://github.com/frappe/crm/pull/3560): fix(calendar): event panel opens deal in new tab, copies shareable details, aligns description
 
-Merged by repo: frappe/crm (4)
+Merged by repo: frappe/crm (5)
 
 <sub>Updated daily from GitHub. [See all my PRs](https://github.com/pulls?q=is%3Apr+author%3AMauliMogal+org%3Afrappe)</sub>
 <!-- stats:end -->
